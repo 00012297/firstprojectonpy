@@ -15,4 +15,4 @@ def encode(message):
         i = j + 1
     return encoded_message
 encoded_message = encode("ABBBBCCCCCCCCAB")
-print(encoded_message)
+print(encoded_message + " first change on github")
